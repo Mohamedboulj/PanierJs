@@ -1,0 +1,20 @@
+.main{
+    width:40vw;
+    margin:30px auto auto auto ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ul{
+    width: 30vw;
+}
+.list-group-item{
+    display: flex !important;
+    justify-content: space-evenly !important;
+    
+}
+
+.badge{
+    
+    font-size: 1.5em !important; 
+}
